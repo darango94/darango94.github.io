@@ -1,11 +1,8 @@
 ---
 title: "My Website"
-output:
-  html_document:
-    include:
-      before_body: footer1.html
-    css: style1.css  
 ---
+
+Hello, Website!
 
 
 
