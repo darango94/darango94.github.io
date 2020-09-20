@@ -1,12 +1,12 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: <a class="navbar-brand" href="index.html"><img src="imagenes/tres.gif"></a>
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
-      href: index.Rmd
+      href: index.html
     - text: "About"
       icon: fa-user 
       href: about.html
@@ -24,10 +24,11 @@ navbar:
       
 output:
   html_document:
-    theme: united
+    theme: readable
     highlight: textmate 
     include:
       after_body: footer.html
     css: style.css
     
+   
     
