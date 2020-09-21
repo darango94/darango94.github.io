@@ -1,5 +1,47 @@
 ---
-title: "About This Website"
+title: <img src="imagenes/Dashboard.gif" width="120%" height="120%">
+output:
+  html_document:
+    css: dashboard.css
 ---
 
-More about this website.
+<style type = "text/css">
+
+.imagenes{
+background-color: rgb(51 55 57 / 0%);
+padding: 0px;
+margin:0px;
+float:left;
+width:269.8px;
+text-align:center;
+}
+</style>
+
+<style type = "text/css">
+.main-container {
+  max-width: 2020px;
+  margin-left: auto;
+  margin-right: auto;
+</style>
+
+
+## <a><img src="imagenes/encabezado.gif"></a>
+
+
+<a href="https://dub01.online.tableau.com/t/darango94/views/GraficosNormalizado/Global?:showVizHome=no&:embed=true" 
+target="principal"><div class="imagenes"><img src="imagenes/p5.gif"></a></div>
+
+
+<a href="https://dub01.online.tableau.com/t/darango94/views/GraficosNormalizado/Rutas_Conductores?:showVizHome=no&:embed=true" target="principal"><div class="imagenes"><img src="imagenes/p4.gif"></a></div>
+
+<a href="https://dub01.online.tableau.com/t/darango94/views/GraficosNormalizado/Rutas_Matriculas?:showVizHome=no&:embed=true" target="principal"><div class="imagenes"><img src="imagenes/p3.gif"></a></div>
+
+<a href="https://www.google.com/maps/d/embed?mid=1Ct-LnfCG1IoxOFgcoJVMsusRhF_eaJkQ"target="principal"><div class="imagenes"><img src="imagenes/goku.gif"></a></div>
+
+<a href="https://dub01.online.tableau.com/t/darango94/views/Mapa_Rutas_todas/MapaRutasWemob?:showVizHome=no&:embed=true" target = "principal"><div class="imagenes"><img src="imagenes/mapita.gif"></a></div>
+
+
+<iframe src="https://dub01.online.tableau.com/t/darango94/views/GraficosNormalizado/Global?:showVizHome=no&:embed=true"
+name="principal" style="border:none;" width="779" height="551" aling="center"></iframe> 
+
+

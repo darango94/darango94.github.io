@@ -23,8 +23,7 @@ output:
 
 </style>
 
+<left><img src= "imagenes/gps.gif" width="20%"></left>
 
-
-
-# Hello, Website!
+<center><img src= "imagenes/big.png" width="45%"></center>
 

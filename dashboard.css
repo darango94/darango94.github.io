@@ -1,0 +1,14 @@
+ body {
+    font-family: "Ubuntu",Tahoma,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16pt;
+    background-image: url("https://media.giphy.com/media/HcP8ePLRnXE4M/giphy.gif");
+  
+}
+
+
+
+.container-fluid {
+  margin-right:auto;
+  margin-left:auto;
+  padding-left:0.01px;
+  padding-right:0.01px}
