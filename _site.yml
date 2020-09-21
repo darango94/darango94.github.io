@@ -7,11 +7,11 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
-      icon: fa-user 
+    - text: "Dashboard"
+      icon: fa-map-marked-alt 
       href: about.html
-    - text: "Blog"
-      icon: fa-rss
+    - text: "Process"
+      icon: fa-cogs
       href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"

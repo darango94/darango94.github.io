@@ -1,5 +1,5 @@
 ---
-title: <img src="imagenes/Dashboard.gif" width="120%" height="120%">
+title: <img src="imagenes/dash_3.gif" width="100%" aling="center">
 output:
   html_document:
     css: dashboard.css
@@ -42,6 +42,6 @@ target="principal"><div class="imagenes"><img src="imagenes/p5.gif"></a></div>
 
 
 <iframe src="https://dub01.online.tableau.com/t/darango94/views/GraficosNormalizado/Global?:showVizHome=no&:embed=true"
-name="principal" style="border:none;" width="779" height="551" aling="center"></iframe> 
+name="principal" style="border:none;" width="1346.5" height="551" aling="center"></iframe> 
 
 
