@@ -1,5 +1,5 @@
 ---
-title: "Bienvenidos"
+title: <img src="imagenes/equipo.png" aling="center">
 output:
   html_document:
     css: style2.css
@@ -14,3 +14,4 @@ style="border:none;" width="100%" height="2000" aling="center"></iframe>
   margin-left: auto;
   margin-right: auto;
 </style>
+

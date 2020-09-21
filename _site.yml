@@ -14,7 +14,7 @@ navbar:
       icon: fa-cogs
       
       menu:
-      - text: Proyecto
+      - text: Project
         icon: fa-android
         href: ejemplo.html
         
@@ -25,6 +25,8 @@ navbar:
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/YOURGITHUB       # CHANGE HERE 
+    - icon: fa-twitter
+      href: https://twitter.com/privefl  
       
       
 output:

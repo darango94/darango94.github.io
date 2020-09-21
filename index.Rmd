@@ -4,6 +4,8 @@ output:
   html_document:
     css: style1.css
 ---
+
+
  
 <div><img src= "imagenes/img.png" width="100%" aling="center"></div>
 
@@ -23,7 +25,8 @@ output:
 
 </style>
 
-<left><img src= "imagenes/gps.gif" width="20%"></left>
 
-<center><img src= "imagenes/big.png" width="45%"></center>
+<center><img src= "imagenes/cool1.png" ></center>
+
+<center><img src= "imagenes/Diseño2.png" width="45%"></center>
 
