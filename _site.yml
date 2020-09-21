@@ -12,7 +12,12 @@ navbar:
       href: about.html
     - text: "Process"
       icon: fa-cogs
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      
+      menu:
+      - text: Proyecto
+        icon: fa-android
+        href: ejemplo.html
+        
   right:
     - text: "Contact me"
       icon: fa-envelope-o
@@ -29,6 +34,10 @@ output:
     include:
       after_body: footer.html
     css: style.css
+    lib_dir: site_libs
+    self_contained: no
+
+    
     
    
     

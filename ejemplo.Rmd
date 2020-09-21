@@ -1,0 +1,16 @@
+---
+title: "Bienvenidos"
+output:
+  html_document:
+    css: style2.css
+---
+
+<iframe src="C:/Users/dany_/Desktop/Material Para Html_1/Tfm5.html"
+style="border:none;" width="100%" height="2000" aling="center"></iframe> 
+
+<style type = "text/css">
+.main-container {
+  max-width: 3020px;
+  margin-left: auto;
+  margin-right: auto;
+</style>
