@@ -17,8 +17,7 @@ navbar:
       - text: Project
         icon: fa-android
         href: ejemplo.html
-      - text: Wemob
-        href: iframe.html
+  
     
         
   right:

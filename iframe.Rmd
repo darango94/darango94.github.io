@@ -1,7 +1,0 @@
----
-title: Bienvenidos 
----
-
-
-<iframe src="http://wemob.es/"
-style="border:none;" width="100%" height="2000" aling="center"></iframe> 
