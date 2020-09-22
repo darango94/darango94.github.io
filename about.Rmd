@@ -28,20 +28,24 @@ text-align:center;
 ## <a><img src="imagenes/encabezado.gif"></a>
 
 
-<a href="https://dub01.online.tableau.com/t/darango94/views/GraficosNormalizado/Global?:showVizHome=no&:embed=true" 
+
+<a href="https://dub01.online.tableau.com/t/darango94/views/Graficos_Edit/Rutas_conductures?:showVizHome=no&:embed=true" 
 target="principal"><div class="imagenes"><img src="imagenes/p5.gif"></a></div>
 
 
-<a href="https://dub01.online.tableau.com/t/darango94/views/GraficosNormalizado/Rutas_Conductores?:showVizHome=no&:embed=true" target="principal"><div class="imagenes"><img src="imagenes/p4.gif"></a></div>
+<a href="https://dub01.online.tableau.com/t/darango94/views/GraficosNormalizado_Edit2/Rutas_Conductores?:showVizHome=no&:embed=true" target="principal"><div class="imagenes"><img src="imagenes/p4.gif"></a></div>
 
-<a href="https://dub01.online.tableau.com/t/darango94/views/GraficosNormalizado/Rutas_Matriculas?:showVizHome=no&:embed=true" target="principal"><div class="imagenes"><img src="imagenes/p3.gif"></a></div>
+<a href="https://dub01.online.tableau.com/t/darango94/views/GraficosNormalizado_Edit/Rutas_Matriculas?:showVizHome=no&:embed=true" target="principal"><div class="imagenes"><img src="imagenes/p3.gif"></a></div>
 
 <a href="https://www.google.com/maps/d/embed?mid=1Ct-LnfCG1IoxOFgcoJVMsusRhF_eaJkQ"target="principal"><div class="imagenes"><img src="imagenes/goku.gif"></a></div>
 
-<a href="https://dub01.online.tableau.com/t/darango94/views/Mapa_Rutas_todas/MapaRutasWemob?:showVizHome=no&:embed=true" target = "principal"><div class="imagenes"><img src="imagenes/mapita.gif"></a></div>
+<a href="https://dub01.online.tableau.com/t/darango94/views/Mapa_Rutas_Edit1/MapaRutasWemob?:showVizHome=no&:embed=true" target = "principal"><div class="imagenes"><img src="imagenes/mapita.gif"></a></div>
+
 
 
 <iframe src="https://dub01.online.tableau.com/t/darango94/views/GraficosNormalizado/Global?:showVizHome=no&:embed=true"
-name="principal" style="border:none;" width="1346.5" height="551" aling="center"></iframe> 
+name="principal" style="border:none;" width="1346.5" height="551" aling="center"></iframe>
+
+
 
 
