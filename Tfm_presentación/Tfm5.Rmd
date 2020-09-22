@@ -1,0 +1,124 @@
+---
+output:
+  rmdformats::material:
+    css : Tfm3.css
+    highlight: kate
+    self_contained: true
+    code_folding: hide
+    thumbnails: true
+    gallery: true
+    fig_width: 4
+    fig_height: 4
+    df_print: kable
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+<div class="social">
+<ul>
+<li><a href="https://www.facebook.com/public/Daniela-Arango" target="_blank"><img alt="Sígueme en Facebook" height="35" width="35" target="_blank" src="https://image.flaticon.com/icons/svg/124/124010.svg" title="Sígueme en Facebook"/></a></li>
+<li><a href="https://danielaarango94.shinyapps.io/WeddingRiskModel_App/" target="_blank"><img alt="Sígueme en instagram" height="35" width="35" target="_blank" src="https://appsilon.com/wp-content/uploads/2019/06/shiny.info_.png" title="Sígueme en Instagram"/></a></li>
+<li><a href="https://www.linkedin.com/in/daniela-maria-arango-giraldo-680584173/?originalSubdomain=es" target="_blank"><img alt="Sígueme en Facebook" height="35" width="35" target="_blank" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" title="Sígueme en Linkedin"/></a></li>
+<li><a href="https://github.com/darango94" target="_blank"><img alt="Sígueme en Facebook" height="35" width="35" target="_blank" src="https://image.flaticon.com/icons/svg/1051/1051326.svg" title="Sígueme en Github"/></a></li>
+</ul>
+</div>
+
+
+
+<center><img src="Tfm_imagenes/wemob_1.gif" style="width: 2000px"></center>
+
+
+
+# <img src="Tfm_imagenes/Proyecto.gif" width="120%" height="120%">
+
+
+
+<p style="text-align: justify;"> __Empresa a nivel mundial con más de 10 años de experiencia en el sector de  nuevas tecnologías__</p>
+
+
+<center><img src="Tfm_imagenes/koko2.gif" width="700" height="200" ></center>
+
+
+
+<p style="text-align: justify;"> __Hemos realizado un análisis sobre un conjunto de datos reales de transporte de mercancías por carretera a nivel nacional, a través de técnicas y tecnologías de Big Data conforme a las necesidades y objetivos de la Empresa colaboradora. __</p>
+
+
+
+
+<iframe src="http://wemob.es/nosotros.html" style="border:none;" scrolling ="no" width="100%" height="720px"></iframe>
+
+
+
+# <img src="Tfm_imagenes/a1.gif" width="120%" height="120%">
+
+## __Dinámica del Proyecto__ {.tabset}
+
+```{r, echo=FALSE}
+icon::fa("charging-station", size = 3, colour = "#f3ef0a", animate = "spin")
+```
+
+<div class="progress">
+  <div class="progress-bar bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" color="black"></div>
+</div>
+
+<center><img src="Tfm_imagenes/desarrollo.gif" width="494" height="494" ></center>
+
+
+
+<style>
+div.blue pre { background-color:transparent; }
+div.blue pre.r { background-color:#2e946e; }
+div.blue pre.r {opacity:0.9;}
+div.blue pre.r {color:black;}
+div.blue pre.r {font-size: 0.9em;}
+div.blue pre.r {font-family: Broadway;}
+</style>
+
+
+
+
+
+
+# <img src="Tfm_imagenes/a2.gif" width="120%" height="120%"> 
+
+
+## __Rutas__ {.tabset}
+
+```{r, echo=FALSE}
+icon::fa("search-location", size = 3, colour = "#f3ef0a", animate = "spin")
+```
+
+<div class="progress">
+  <div class="progress-bar bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+
+<center><img src="Tfm_imagenes/morado.gif" width="494" height="494" ></center>
+
+
+
+
+# <img src="Tfm_imagenes/a3.gif" width="120%" height="120%"> 
+
+## __Carga y Depuración del Dataset__ {.tabset}
+
+```{r, echo=FALSE}
+icon::fa("battery-quarter", size = 3, colour = "#f3ef0a", animate = "spin")
+```
+
+<div class="progress">
+  <div class="progress-bar bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+</div>
+
+
+<p style="text-align: justify;"> __Wemob nos proporcionó más de 10 millones de registros en formato json de los últimos 6 meses lo equivalente a 3 terabytes.__ 
+</p>
+
+
+<center><img src="Tfm_imagenes/python.gif" width="815" height="249" ></center>
+
+
+
+

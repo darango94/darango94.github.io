@@ -1,0 +1,170 @@
+body  {
+  background-color: #309d20;
+  background-image: url("https://media.giphy.com/media/HcP8ePLRnXE4M/giphy.gif");
+  font-family: Helvetica;
+  font-size: 16pt;
+  color: #000000;
+}
+
+
+.header-panel {
+  background-color: #39b87f;
+  background-color: #E40019;
+  background-image: url('Tfm_imagenes/Color1.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  z-index: 3;
+  
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 0px 0px;
+}
+
+.menu ul li.active {
+    background-color: rgba(255,255,255,0.15);
+    position: relative;
+}
+
+
+.progress .progress-bar, .progress .progress-bar.progress-bar-default {
+    background-color: #f3ef0a;
+}
+
+.progress {
+    height: 4px;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: #A6A6A6;
+}
+
+.pages h1 {
+  color: #8d918f;
+}
+
+.social {
+position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+right: 0; /* Establecemos la barra en la izquierda */
+top: 200px; /* Bajamos la barra 200px de arriba a abajo */
+z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+ 
+.social ul {
+list-style: none;
+}
+ 
+.social img{ 
+transition:all 0.5s ease-out;}
+.social img:hover{
+transform: rotate(360deg);
+}
+
+.menu {overflow: scroll;padding: 0;}
+.menu, .menu * {
+-webkit-user-select: none;
+-moz-user-select: none;
+user-select: none;
+
+}
+
+::-webkit-scrollbar {
+    width: 0px;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+
+.panel {
+    margin-bottom: 20px;
+    background:transparent;
+    border: 1px solid transparent;
+    border-radius: 1px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+
+.pages .nav-tabs>li.active>a {
+    background-color: #f3ef0a !important;
+}
+
+
+.pages .nav-tabs>li>a {
+    font-weight: 700 !important;
+}
+
+.nav-tabs {
+    background: #A6A6A6;
+}
+
+
+.nav-tabs>li>a, .nav-tabs>li>a:focus, .nav-tabs>li>a:hover {
+    background-color: transparent!important;
+    border: 0!important;
+    color: #070707!important;
+    font-weight: 500;
+}
+
+.page {
+    transform: translateY(1080px);
+    transition: transform 0 linear;
+    visibility: hidden;
+    opacity: 0;
+    font-size: 16px;
+    margin-left: 1em;
+}
+
+.panel-body {
+    padding: 0px;
+}
+
+.imagenes{
+background-color: rgb(51 55 57 / 0%);
+padding: 30px 40px 30px 40px;
+margin:2px;
+float:left;
+width:249px;
+text-align:center;
+}
+
+
+.h1, h1 {
+    font-size: 4px;
+}
+
+.page h1 {
+    margin-bottom: -1em;
+}
+
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: -25px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 3.0;
+    color: inherit;
+}
+
+
+body .container .jumbotron, body .container .jumbotron-default, body .container .well, body .container .well-default, body .container-fluid .jumbotron, body .container-fluid .jumbotron-default, body .container-fluid .well, body .container-fluid .well-default {
+    background-color: rgba(51,55,57,0.3);
+}
+
+.header-panel {
+    background-color: rgb(255 255 255 / 0%);
+    background-color: rgb(0 0 0 / 0%);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    z-index: 3;
+}
